@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /readme
+Host: skalexandr.ru
+Sitemap: https://skalexandr.ru/sitemap.xml
