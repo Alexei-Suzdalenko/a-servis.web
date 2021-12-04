@@ -50,11 +50,6 @@ export default{
                 let arrayImages = res.img.split(',');
                 console.log('listado imagenes LEIDOS desde php archivos', arrayImages);
                 this.photo_referenceArray = arrayImages;
-          }).catch(err => {
-                 // if I have error, I need put images in php files
-                 fetch('https://skalexandr.000webhostapp.com/vendor/?city='+this.$route.params.city).then(res => res.json()).then(res => {
-                     console.log('listado imagenes PARSEADOS', res);
-                 });
           });
          return window.location.href;
        }

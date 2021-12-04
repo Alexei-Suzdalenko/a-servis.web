@@ -159,7 +159,7 @@
                         <span class="flaticon-engineer"></span>
                     </div>
                     <div class="text">
-                        <h2 class="number"><span class="countup">221</span></h2>
+                        <h2 class="number"><span class="countup">907</span></h2>
                         <span class="caption">СЧАСТЛИВЫЕ КЛИЕНТЫ</span>
                     </div>
                 </div>
