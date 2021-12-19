@@ -11,6 +11,8 @@
                 <li class="nav-item"><router-link v-bind:class="citiesPage" to="/repair-apartments-list-cities">Города</router-link></li>
                 <li class="nav-item"><router-link v-bind:class="moskowPage" to="/apartment-repair/Moscow">Москва</router-link></li>
                 <li class="nav-item"><router-link v-bind:class="video" to="/video">Видео</router-link></li>
+                <li class="nav-item"><a class="nav-link" href="tel:+74956644418">+7 495 664 44 18</a></li>
+                <li class="nav-item"><a class="nav-link" href="tel:+79269999224">+7 926 999 92 24</a></li>
             </ul>
         </div>
     </div>

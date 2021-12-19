@@ -7,8 +7,8 @@
                 <div class="text">
                     <span class="subheading">Since 2011</span>
                     <h1 class="mb-5">Строительная Компания <span>Александр</span></h1>
-                    <p><a target="_blank" href="https://wa.me/+79168411114" class="btn btn-primary p-4 py-3">WhatsApp <span class="ion-ios-arrow-round-forward"></span></a>
-                       <a target="_blank" href="tel:+79168411114" class="btn btn-darken p-4 py-3">Звонок <span class="ion-ios-arrow-round-forward"></span></a></p>
+                    <p><a target="_blank" href="https://wa.me/+79269999224" class="btn btn-primary p-4 py-3">WhatsApp <span class="ion-ios-arrow-round-forward"></span></a>
+                       <a target="_blank" href="tel:+79269999224" class="btn btn-darken p-4 py-3">Звонок <span class="ion-ios-arrow-round-forward"></span></a></p>
                 </div>
             </div>
         </div>

@@ -37,8 +37,8 @@
                     <div class="block-23 mb-3">
                         <ul>
                             <li><span class="icon fa fa-map marker"></span><span class="text">Россия Москва Пресненская наб. 2</span></li>
-                            <li><a href="tel:+79168411114"><span class="icon fa fa-phone"></span><span class="text">+7 9 168 41 11 14</span></a>
-                                <a href="tel:+74956644418"><span class="icon fa fa-phone"></span><span class="text">+7 4 956 64 44 18</span></a>
+                            <li><a href="tel:+74956644418"><span class="icon fa fa-phone"></span><span class="text">+7(495) 66 444 18</span></a>
+                                <a href="tel:+79269999224"><span class="icon fa fa-phone"></span><span class="text">+7 926 999 92 24</span></a>
                             </li>
                             <li><a href="mailto:sk.alexandr.2011@gmail.com"><span class="icon fa fa-paper-plane pr-4"></span><span class="text"><span>sk.alexandr.2011@gmail.com</span></span></a></li>
                         </ul>
@@ -58,7 +58,7 @@
         <div class="container-xl">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p class="mb-0" style="color: rgba(255,255,255,.5); font-size: 13px;">Copyright &copy; 2022 Все права защищены | Made <a href="https://skalexandr.000webhostapp.com/" target="_blank"><i class="fa fa-heart color-danger" aria-hidden="true"></i></a> by <a href="https://suzdalenko.com/it-developer/Moscow" target="_blank">S Developer</a></p>
+                    <p class="mb-0" style="color: rgba(255,255,255,.5); font-size: 13px;">Copyright &copy; 2022 Все права защищены | Made <a href="https://skalexandr.000webhostapp.com/" target="_blank"><i class="fa fa-heart color-danger" aria-hidden="true"></i></a> by <a href="https://suzdalenko.com" target="_blank">S Developer</a></p>
                 </div>
             </div>
         </div>
